@@ -1,0 +1,24 @@
+{
+    "name": "node-mysql-app",
+    "version": "1.0.0",
+    "description": "combining the two for an Amazon-like app",
+    "main": "bamazonCustomer.js",
+    "dependencies": {
+      "inquirer": "^5.2.0",
+      "mysql": "^2.15.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rajsingh18ny/Node-MYSQL-app.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/rajsingh18ny/Node-MYSQL-app/issues"
+    },
+    "homepage": "https://github.com/rajsingh18ny/Node-MYSQL-app#readme"
+  }
